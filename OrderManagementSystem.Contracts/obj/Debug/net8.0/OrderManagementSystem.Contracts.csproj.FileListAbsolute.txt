@@ -1,0 +1,12 @@
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/bin/Debug/net8.0/OrderManagementSystem.Contracts.deps.json
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/bin/Debug/net8.0/OrderManagementSystem.Contracts.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/bin/Debug/net8.0/OrderManagementSystem.Contracts.pdb
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.AssemblyInfoInputs.cache
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.AssemblyInfo.cs
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.csproj.CoreCompileInputs.cache
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.sourcelink.json
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/refint/OrderManagementSystem.Contracts.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/OrderManagementSystem.Contracts.pdb
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Contracts/obj/Debug/net8.0/ref/OrderManagementSystem.Contracts.dll

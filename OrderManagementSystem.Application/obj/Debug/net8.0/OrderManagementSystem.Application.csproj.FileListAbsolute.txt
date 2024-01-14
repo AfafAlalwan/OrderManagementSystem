@@ -1,0 +1,16 @@
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/bin/Debug/net8.0/OrderManagementSystem.Application.deps.json
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/bin/Debug/net8.0/OrderManagementSystem.Application.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/bin/Debug/net8.0/OrderManagementSystem.Application.pdb
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.AssemblyInfoInputs.cache
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.AssemblyInfo.cs
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.csproj.CoreCompileInputs.cache
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.sourcelink.json
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/refint/OrderManagementSystem.Application.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.pdb
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/ref/OrderManagementSystem.Application.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/bin/Debug/net8.0/OrderManagementSystem.Domain.dll
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/bin/Debug/net8.0/OrderManagementSystem.Domain.pdb
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.csproj.AssemblyReference.cache
+/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/obj/Debug/net8.0/OrderManagementSystem.Application.csproj.CopyComplete

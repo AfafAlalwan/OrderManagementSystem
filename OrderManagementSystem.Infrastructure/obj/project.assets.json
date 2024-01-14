@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "OrderManagementSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OrderManagementSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderManagementSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderManagementSystem.Application.dll": {}
+        }
+      },
+      "OrderManagementSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OrderManagementSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderManagementSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../OrderManagementSystem.Application/OrderManagementSystem.Application.csproj",
+      "msbuildProject": "../OrderManagementSystem.Application/OrderManagementSystem.Application.csproj"
+    },
+    "OrderManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OrderManagementSystem.Domain/OrderManagementSystem.Domain.csproj",
+      "msbuildProject": "../OrderManagementSystem.Domain/OrderManagementSystem.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OrderManagementSystem.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/afaf/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Infrastructure/OrderManagementSystem.Infrastructure.csproj",
+      "projectName": "OrderManagementSystem.Infrastructure",
+      "projectPath": "/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Infrastructure/OrderManagementSystem.Infrastructure.csproj",
+      "packagesPath": "/home/afaf/.nuget/packages/",
+      "outputPath": "/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/afaf/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/OrderManagementSystem.Application.csproj": {
+              "projectPath": "/home/afaf/Desktop/Github Projects/OrderManagementSystem/OrderManagementSystem.Application/OrderManagementSystem.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

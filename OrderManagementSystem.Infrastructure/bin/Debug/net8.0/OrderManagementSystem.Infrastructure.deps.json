@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrderManagementSystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OrderManagementSystem.Application": "1.0.0"
+        },
+        "runtime": {
+          "OrderManagementSystem.Infrastructure.dll": {}
+        }
+      },
+      "OrderManagementSystem.Application/1.0.0": {
+        "dependencies": {
+          "OrderManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OrderManagementSystem.Application.dll": {}
+        }
+      },
+      "OrderManagementSystem.Domain/1.0.0": {
+        "runtime": {
+          "OrderManagementSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderManagementSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
